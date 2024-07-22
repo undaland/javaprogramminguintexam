@@ -36,7 +36,7 @@
         private boolean isAvailable;
 
         // 기본 생성자
-        // code를 작성하세요
+        public Book() {}
         
         // 모든 필드를 초기화하는 생성자
         // code를 작성하세요
